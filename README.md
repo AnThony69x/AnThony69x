@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Anthony** 
+### Estudiante de Ingeniería en Software
 
-<!--
-**AnThony69x/AnThony69x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Actualmente trabajando en:
+- Proyectos de Backend con **Laravel** y **PostgreSQL**.
+- Aplicaciones Frontend con **React** y **Redux Toolkit**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aprendiendo sobre:
+- Optimización de sistemas y rendimiento en **gaming** y **office** con **Armoury Crate**.
+- Mejores prácticas en **HTML** y desarrollo web.
+
+## 💻 Herramientas y Tecnologías:
+- **PHP**, **JavaScript**, **Typescript**, **PostgreSQL**
+- **React**, **Redux Toolkit**
+- **Laravel**, **Node.js**
+
+---
+
+## 🚀 Proyectos Actuales:
+- Un **CRUD API REST** utilizando **Laravel 10** y **PostgreSQL**.
+- Configuración avanzada de **Armoury Crate** para mejorar rendimiento en mi **ASUS TUF Gaming F15**.
+
+---
+
+## ⚡ Datos Curiosos:
+- **Fan de los videojuegos** 🎮 y entusiasta de la tecnología.
+- Siempre buscando optimizar mi setup para **gaming** y productividad.
+
+---
+
+## 📫 ¿Cómo contactarme?
+- Email: [anthonimejia2003@gmail.com](mailto:anthonimejia2003@gmail.com)
+- GitHub: [AnThony69x](https://github.com/AnThony69x)
+
+---
