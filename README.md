@@ -15,6 +15,7 @@
 - Mejores prácticas en **HTML** y desarrollo web.
 
 ## 💻 Herramientas y Tecnologías:
+-**Python**, **Java**, **HTML**, **CSS**
 - **PHP**, **JavaScript**, **Typescript**, **PostgreSQL**
 - **React**, **Redux Toolkit**
 - **Laravel**, **Node.js**
