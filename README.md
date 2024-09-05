@@ -2,6 +2,7 @@
 ### Estudiante de Ingeniería en Software
 
 ---
+![Programador de dibujos animados](https://es.vecteezy.com/arte-vectorial/689923-programador-de-software-de-dibujos-animados)
 
 ## 🔭 Actualmente trabajando en:
 - Proyectos de Backend con **Laravel** y **PostgreSQL**.
