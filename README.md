@@ -2,8 +2,8 @@
 ### Estudiante de Ingeniería en Software
 
 ---
-![Programador de dibujos animados]()![software-programmer-cartoon-vector](https://github.com/user-attachments/assets/c6a79db4-6d96-451c-b796-447481e07cc5)
 
+<img src="https://github.com/user-attachments/assets/c6a79db4-6d96-451c-b796-447481e07cc5" alt="" width="400"/>
 
 ## 🔭 Actualmente trabajando en:
 - Proyectos de Backend con **Laravel** y **PostgreSQL**.
