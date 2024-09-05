@@ -2,8 +2,9 @@
 ### Estudiante de Ingeniería en Software
 
 ---
-
+<div align="center">
 <img src="https://github.com/user-attachments/assets/c6a79db4-6d96-451c-b796-447481e07cc5" alt="" width="400"/>
+</div>
 
 ## 🔭 Actualmente trabajando en:
 - Proyectos de Backend con **Laravel** y **PostgreSQL**.
