@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy **Anthony** 
-### Estudiante de Ingeniería en Software
+### Estudiante de Ingeniería en Software me apaciona el mundo de la tecnologia y el desarrollo web
 
 ---
 <div align="center">
