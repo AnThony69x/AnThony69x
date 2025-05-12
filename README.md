@@ -54,8 +54,6 @@
 
 ---
 
-<img align="right" height="150" src="https://preview.redd.it/he8jdbw5x0781.gif?width=670&auto=webp&s=77c2172b687e8a233f7510ef9b66ead3b02c5e78" />
-
 ## 📫 Contacto:
 <div align="left">
   <a href="mailto:anthonimejia2003@gmail.com">
@@ -67,11 +65,5 @@
   <a href="https://www.linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Puedes agregar más enlaces aquí -->
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake.svg" alt="Snake animation"/>
-</div>
