@@ -111,14 +111,12 @@ Me gusta diseñar arquitecturas limpias, optimizar consultas SQL y trabajar con 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake_dark.svg" alt="Snake animation dark" />
 </div>
 
 ---
 
-<div align="center">
-  <img height="260" alt="Coding GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-</div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake_light.svg" />
 
 ---
 
