@@ -13,11 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake (light & dark)
+      - name: Generate snake (light, dark y default)
         uses: Platane/snk@v3
         with:
           github_user_name: AnThony69x
           outputs: |
+            dist/snake.svg
             dist/snake_light.svg
             dist/snake_dark.svg?palette=github-dark
 
