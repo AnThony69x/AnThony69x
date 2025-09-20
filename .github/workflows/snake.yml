@@ -2,16 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"        
   workflow_dispatch:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate snake (light, dark y default)
         uses: Platane/snk@v3
@@ -22,10 +31,16 @@ jobs:
             dist/snake_light.svg
             dist/snake_dark.svg?palette=github-dark
 
+      - name: List generated files (debug)
+        run: |
+          echo "Archivos generados:"
+          ls -l dist
+
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
