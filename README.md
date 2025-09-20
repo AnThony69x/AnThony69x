@@ -3,7 +3,7 @@
 # 👋 Hola, soy Anthony Mejia  
 ### Full Stack Developer 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Mejía-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-mejia-1138891a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Mejia-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-mejia-1138891a8/)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-ff9800?logo=firefox-browser&logoColor=white)](https://anthony-mejia-portafolio-v1.vercel.app/)
 ![Visitors](https://komarev.com/ghpvc/?username=AnThony69x&color=0e75b6&style=flat)
 ![Status](https://img.shields.io/badge/Focus-Clean%20Architecture%20%7C%20APIs%20Escalables-3ECF8E?logo=abstract)
