@@ -3,7 +3,7 @@
 # 👋 Hola, soy Anthony Mejia  
 ### Full Stack Developer 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Mejia-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-mejia-1138891a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Mejía-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-mejia-1138891a8/)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-ff9800?logo=firefox-browser&logoColor=white)](https://anthony-mejia-portafolio-v1.vercel.app/)
 ![Visitors](https://komarev.com/ghpvc/?username=AnThony69x&color=0e75b6&style=flat)
 ![Status](https://img.shields.io/badge/Focus-Clean%20Architecture%20%7C%20APIs%20Escalables-3ECF8E?logo=abstract)
@@ -110,9 +110,18 @@ Me gusta diseñar arquitecturas limpias, optimizar consultas SQL y trabajar con 
 
 ---
 
-<img src="https://raw.githubusercontent.com/4NDR3S-01/4NDR3S-01/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
+
+<div align="center">
+  <img height="260" alt="Coding GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</div>
+
+---
+
 <div align="center">
 <strong>¡Gracias por visitar mi perfil! 👋</strong>
-</div>  
+</div>
