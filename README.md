@@ -90,21 +90,8 @@ I enjoy designing clean architectures, optimizing SQL queries, and working with 
 
 ---
 
-## 📊 Estadísticas | Stats  
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnThony69x&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnThony69x&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Redes Sociales | Social Media  
 <div align="center">
-  <a href="https://api.whatsapp.com/send?phone=593979062065" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
-  </a>
   <a href="https://www.instagram.com/thony.a_69x/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
