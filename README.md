@@ -107,6 +107,7 @@ I enjoy designing clean architectures, optimizing SQL queries, and working with 
   </a>
 
 </div>
+
 ---
 
 <div align="center">
