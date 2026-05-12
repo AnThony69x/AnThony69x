@@ -1,7 +1,7 @@
 <div align="center">
   
-# 👋 Hola, soy Anthony Mejía  
-# 👋 Hi, I'm Anthony Mejía  
+# 👋 Hola, soy Thony (Anthony)
+# 👋 Hi, I'm Thony (Anthony)
 
 ### 💻 Full Stack Developer  
 
