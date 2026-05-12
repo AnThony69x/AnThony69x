@@ -1,7 +1,7 @@
 <div align="center">
   
-# 👋 Hola, soy Thony (Anthony)
-# 👋 Hi, I'm Thony (Anthony)
+# 👋 Hola, soy Thony 
+# 👋 Hi, I'm Thony 
 
 ### 💻 Full Stack Developer  
 
@@ -17,11 +17,11 @@
 ## 🧑‍💻 Sobre mí | About Me  
 
 **ES 🇪🇸**  
-Desarrollador Full Stack con experiencia en la construcción de APIs robustas (Laravel, Node.js + NestJS), frontends modernos (React, Next.js, Vue, Angular) y soluciones en tiempo real con Firebase y Supabase.  
+Yo soy **Anthony Mejia** Desarrollador Full Stack con experiencia en la construcción de APIs robustas (Laravel, Node.js + NestJS), frontends modernos (React, Next.js, Vue, Angular) y soluciones en tiempo real con Firebase y Supabase.  
 Me apasiona diseñar arquitecturas limpias, optimizar consultas SQL y trabajar con despliegues contenedorizados (Docker) en entornos Linux y Azure.  
 
 **EN 🇺🇸**  
-Full Stack Developer with experience building robust APIs (Laravel, Node.js + NestJS), modern frontends (React, Next.js, Vue, Angular), and real-time solutions using Firebase and Supabase.  
+I'am **Anthony Mejia** Full Stack Developer with experience building robust APIs (Laravel, Node.js + NestJS), modern frontends (React, Next.js, Vue, Angular), and real-time solutions using Firebase and Supabase.  
 I enjoy designing clean architectures, optimizing SQL queries, and working with containerized deployments (Docker) on Linux and Azure environments.  
 
 ---
