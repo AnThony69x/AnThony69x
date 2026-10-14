@@ -1,122 +1,82 @@
 <div align="center">
-  
-# 👋 Hola, soy Thony 
-# 👋 Hi, I'm Thony 
 
-### 💻 Full Stack Developer  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Mejía-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-mejia-1138891a8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-ff9800?logo=firefox-browser&logoColor=white)](https://anthony-mejia-portafolio-v1.vercel.app/)
-![Visitors](https://komarev.com/ghpvc/?username=AnThony69x&color=0e75b6&style=flat)
-![Status](https://img.shields.io/badge/Focus-Clean%20Architecture%20%7C%20Scalable%20APIs-3ECF8E?logo=abstract)
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/name.svg" width="480" alt="Anthony Mejia" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Sobre mí | About Me  
-
-**ES 🇪🇸**  
-Yo soy **Anthony Mejia** Desarrollador Full Stack con experiencia en la construcción de APIs robustas (Laravel, Node.js + NestJS), frontends modernos (React, Next.js, Vue, Angular) y soluciones en tiempo real con Firebase y Supabase.  
-Me apasiona diseñar arquitecturas limpias, optimizar consultas SQL y trabajar con despliegues contenedorizados (Docker) en entornos Linux y Azure.  
-
-**EN 🇺🇸**  
-I'am **Anthony Mejia** Full Stack Developer with experience building robust APIs (Laravel, Node.js + NestJS), modern frontends (React, Next.js, Vue, Angular), and real-time solutions using Firebase and Supabase.  
-I enjoy designing clean architectures, optimizing SQL queries, and working with containerized deployments (Docker) on Linux and Azure environments.  
-
----
-
-## 🚀 Tecnologías | Technologies  
 <div align="center">
 
-<!-- Lenguajes -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="46" />
-</p>
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/banner.svg" width="100%" alt="Anthony Mejia - Full Stack Developer" />
 
-<!-- Frontend -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" />
-</p>
-
-<!-- Backend -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="46" />
-</p>
-
-<!-- Bases de Datos -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" />
-</p>
-
-<!-- DevOps -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" />
-</p>
-
-<!-- Herramientas -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="46" />
-</p>
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/typing.svg" width="620" alt="Full Stack · Laravel · NestJS · React" />
 
 </div>
 
----
+<br/>
 
-## 🌐 Redes Sociales | Social Media  
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/title-about.svg" height="48" alt="Sobre mí" />
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p>
+¡Hola! Soy <b>Anthony Mejia</b> 👋, desarrollador <b>Full Stack</b> con experiencia en APIs robustas
+(Laravel, Node.js + NestJS), frontends modernos (React, Next.js, Vue, Angular) y soluciones en tiempo real
+con Firebase y Supabase. Me apasiona diseñar arquitecturas limpias, optimizar consultas SQL y trabajar con
+despliegues contenedorizados (Docker) en entornos Linux y Azure.
+</p>
 
-  <a href="https://www.instagram.com/thony.a_69x/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
-  </a>
+<details>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
+<p>
+Hi! I'm <b>Anthony Mejia</b>, a <b>Full Stack</b> developer with experience building robust APIs (Laravel,
+Node.js + NestJS), modern frontends (React, Next.js, Vue, Angular) and real-time solutions with Firebase and
+Supabase. I enjoy designing clean architectures, optimizing SQL queries and working with containerized
+deployments (Docker) on Linux and Azure.
+</p>
+</details>
 
-  <a href="https://www.linkedin.com/in/anthony-mejia-1138891a8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
-  </a>
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/divider.svg" width="100%" alt="" />
 
-  <a href="mailto:anthonimejia2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
-  </a>
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/title-stack.svg" height="48" alt="Tecnologías" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake_dark.svg" />
+
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/stack.svg" width="100%" alt="Lenguajes, frontend, backend, bases de datos y DevOps" />
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/divider.svg" width="100%" alt="" />
+
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/title-stats.svg" height="48" alt="Estadísticas" />
 
 <div align="center">
-<strong>¡Gracias por visitar mi perfil! 👋</strong>  
-<strong>Thanks for visiting my profile! 👋</strong>
+
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/stats.svg" width="100%" alt="Estadísticas de GitHub" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Gráfico 3D de contribuciones" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake_light.svg" />
+  <img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/output/snake_dark.svg" width="100%" alt="Serpiente comiéndose mis contribuciones" />
+</picture>
+
 </div>
+
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/divider.svg" width="100%" alt="" />
+
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/title-contact.svg" height="48" alt="Contacto" />
+
+<p align="center">
+<a href="https://anthony-mejia-portafolio-v1.vercel.app/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-portfolio.svg" height="44" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/anthony-mejia-1138891a8/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="mailto:anthonimejia2003@gmail.com"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-email.svg" height="44" alt="Email" /></a>
+<a href="https://www.instagram.com/thony.a_69x/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-instagram.svg" height="44" alt="Instagram" /></a>
+</p>
+
+<p align="center"><b>¡Gracias por visitar mi perfil! / Thanks for visiting my profile! 🚀</b></p>
