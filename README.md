@@ -74,7 +74,7 @@ deployments (Docker) on Linux and Azure.
 
 <p align="center">
 <a href="https://anthony-mejia-portafolio-v1.vercel.app/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-portfolio.svg" height="44" alt="Portafolio" /></a>
-<a href="https://www.linkedin.com/in/anthony-mejia-1138891a8/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/anthony-mejia-o-69x/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
 <a href="mailto:anthonimejia2003@gmail.com"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-email.svg" height="44" alt="Email" /></a>
 <a href="https://www.instagram.com/thony.a_69x/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-instagram.svg" height="44" alt="Instagram" /></a>
 </p>
