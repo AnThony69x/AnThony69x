@@ -79,4 +79,17 @@ deployments (Docker) on Linux and Azure.
 <a href="https://www.instagram.com/thony.a_69x/"><img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/btn-instagram.svg" height="44" alt="Instagram" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/AnThony69x/AnThony69x/main/assets/divider.svg" width="100%" alt="" />
+
+## 💖 Apóyame
+
+<p align="center">
+<a href="https://github.com/sponsors/AnThony69x"><img src="https://img.shields.io/badge/Sponsor-AnThony69x-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor AnThony69x" /></a>
+</p>
+
+¡Gracias por pasarte por aquí! Si mi trabajo te ha sido útil, puedes apoyarlo con un patrocinio. Soy desarrollador Full Stack
+(TypeScript, NestJS, Next.js, React, PostgreSQL, Docker, Supabase) y trabajo en integraciones de IA/LLM
+(OpenAI API, LangChain, RAG). Me enfoco en software práctico, sobre todo para restaurantes y educación.
+Tu apoyo me ayuda a seguir construyendo y mejorando estas herramientas.
+
 <p align="center"><b>¡Gracias por visitar mi perfil! / Thanks for visiting my profile! 🚀</b></p>
